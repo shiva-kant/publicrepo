@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World Green/Blue  '
+                echo 'Hello World from xyz branch '
             }
         }
     }
